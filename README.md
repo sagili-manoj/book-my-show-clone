@@ -1,10 +1,9 @@
 # BookMyShow Clone
 Welcome to the BookMyShow Clone project! This is a React-based web application that mimics the functionality of the popular ticketing platform, BookMyShow. It includes multiple components, a payment integration (test mode), and uses APIs to fetch movie data.
 
-## Live Demo
-   ```Link
-   https://sagilimanoj-bookmyshow-clone.netlify.app/
-```
+## 🚀 Live Demo
+[Click here to view the live project](https://sagilimanoj-bookmyshow-clone.netlify.app/)
+
 ## Features
 - **Movie Display**: Displays movies and their details using the TMDB API.
 - **Top-Rated Movies**: Displays a list of top-rated movies.
